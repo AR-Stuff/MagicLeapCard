@@ -1,0 +1,5 @@
+Cardid,Cardname,Attack,HP,Speed,Specialeffect,PrefabPath
+1,Lancer(Red),4,25,5,No Special Effect,Prefabs/Monster/Lancer/RedLancerPrefab
+2,Assassin(Red),1,1,1,Kill a random enemy creature during Pre-AutoAttack step,Prefabs/Monster/Archer/RedArcherPrefab
+3,Knight(Red),0,50,0,Cannot Attack&Enemy lose the same amount of HP as it lost,Prefabs/Monster/Archer/RedArcherPrefab
+4,Archer(Red),5,10,10,Attack Range is 4 & Attack Double if the range is more than 1,Prefabs/Monster/Archer/RedArcherPrefab

@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8763713206991694840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8763713206991694842}
+  - component: {fileID: 8763713206991694841}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8763713206991694842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8763713206991694840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8763713206991694841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8763713206991694840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9288e41552420f4e89b995d968498bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Theme
+    clip: {fileID: 8300000, guid: 678eba68b6c0c4102b7492a6497992c6, type: 3}
+    volume: 0.4
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: Footstep
+    clip: {fileID: 8300000, guid: c14052fb9f2b74e97bd0c0d6ab1899e8, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: SwordSwing
+    clip: {fileID: 8300000, guid: 014e0a03e581f441a8d46d9b44e66d72, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: HighlightNoise
+    clip: {fileID: 8300000, guid: 65e8ca75ce16c4dfe9f06606deba0ea7, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Arrow
+    clip: {fileID: 8300000, guid: 6980ca9fbb61c4e4c8a0f0b288821fa5, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Magic
+    clip: {fileID: 8300000, guid: a352c3d200e6c4bafa0206303d87616b, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Victory
+    clip: {fileID: 8300000, guid: d82db0c0654bde5418240dc14f53e09c, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Defeat
+    clip: {fileID: 8300000, guid: 7d1bdea38727b53429f9e59b79b9e2b5, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: LobbyServer
+    clip: {fileID: 8300000, guid: 70186122769cba942872de90281ad95d, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: LobbyNoServer
+    clip: {fileID: 8300000, guid: fcbf92caa7ba79a479709dd3e558849f, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ScanAndPlace
+    clip: {fileID: 8300000, guid: 8a860c4679fa95b42b897e08a0d76211, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: WaitForPlayer
+    clip: {fileID: 8300000, guid: 26ed0b5254e5dc343a93d37a211d0e6f, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: PlaceDoneFirst
+    clip: {fileID: 8300000, guid: 5d6b362c2487b354ba514c99c74d1c3d, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: PlaceDoneSecond
+    clip: {fileID: 8300000, guid: f2fac3095d03abd46a09bddc73051a27, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: FirstPlayer
+    clip: {fileID: 8300000, guid: 46a0475b2dc12d945b63c4337938aea4, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: SecondPlayer
+    clip: {fileID: 8300000, guid: 2e57833fe2c7e4749acb8694e18ab379, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ChooseHex
+    clip: {fileID: 8300000, guid: a22ad0f82d4019a4385399aec43aac2f, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: FirstPlayCard
+    clip: {fileID: 8300000, guid: 4facbd526ff2d0844b2a352b44772fb7, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: BattleBegin_First
+    clip: {fileID: 8300000, guid: 57a225a2726842846aae3422cc9d6d68, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: BattleBegin_Second
+    clip: {fileID: 8300000, guid: 5dc41b61e85b0a84c82846e1e7c4839a, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: AfterClickCharacter
+    clip: {fileID: 8300000, guid: 62350713b6b49374bad070025c1ab899, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: AfterMoving
+    clip: {fileID: 8300000, guid: 5e009b8296cc47744bfa6ab033211c41, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: SecondPlayerFirstBattle
+    clip: {fileID: 8300000, guid: 413671f31d6a800488cf9320c1e044a6, type: 3}
+    volume: 0.723
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0

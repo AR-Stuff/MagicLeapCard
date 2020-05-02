@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['id_198',['id',['../class_card_info_1_1_new_card.html#ab0d88e0ac5dc3560076a0cae20f64be3',1,'CardInfo::NewCard']]],
+  ['idle_199',['Idle',['../namespace_game_world.html#a873363129b1d9b17330a9b9a2832c1eeae599161956d626eda4cb0a5ffb85271c',1,'GameWorld']]],
+  ['idle_5fphase_200',['Idle_Phase',['../namespace_game_logic.html#a09f4a33ac72feaf9113eec3f027e4392a6e6638450d15584497fc8aaa07d87747',1,'GameLogic']]],
+  ['idlebtnprefab_201',['IdleBtnPrefab',['../class_u_i_1_1_content_u_i_manager.html#a562694a48946edc7494915a45fd7f584',1,'UI::ContentUIManager']]],
+  ['imagetrackingstart_202',['ImageTrackingStart',['../namespace_game_logic.html#a09f4a33ac72feaf9113eec3f027e4392a53f88d5b98a66e3f8c93b4217a4799f8',1,'GameLogic']]],
+  ['imagetrackingstop_203',['ImageTrackingStop',['../namespace_game_logic.html#a09f4a33ac72feaf9113eec3f027e4392a53675b5126b805d66adb2742cb56f928',1,'GameLogic']]],
+  ['init_204',['Init',['../namespace_game_logic.html#abf753ce51dfb04d1b8632f96114ce839a95b19f7739b0b7ea7d6b07586be54f36',1,'GameLogic.Init()'],['../namespace_game_logic.html#a09f4a33ac72feaf9113eec3f027e4392a95b19f7739b0b7ea7d6b07586be54f36',1,'GameLogic.Init()']]],
+  ['inputcontroller_205',['InputController',['../namespace_input_controller.html',1,'']]],
+  ['instructionui_206',['InstructionUI',['../class_game_logic_1_1_human_player.html#aeb3044cd9a1617a707c9e636e5b006a5',1,'GameLogic.HumanPlayer.InstructionUI()'],['../class_u_i_1_1_content_u_i_manager.html#a37577be9319de5da10b8a1c2d2987521',1,'UI.ContentUIManager.InstructionUI()']]],
+  ['interactiveterrain_207',['InteractiveTerrain',['../class_game_world_1_1_interactive_terrain.html',1,'GameWorld']]],
+  ['interactiveterrain_2ecs_208',['InteractiveTerrain.cs',['../_interactive_terrain_8cs.html',1,'']]],
+  ['is_5fdefensed_209',['is_defensed',['../class_monsters_1_1_maria___brute.html#a21c80e513ac2b633d8aed1e5ab451c18',1,'Monsters::Maria_Brute']]],
+  ['isaccessible_210',['isAccessible',['../class_game_world_1_1_hex_tile_map.html#a75df4554fa37d66e13a99f295a65300a',1,'GameWorld::HexTileMap']]],
+  ['isalive_211',['isAlive',['../class_monsters_1_1_monster.html#a434fff4cfb8e57c64dd54822d697fb9d',1,'Monsters::Monster']]],
+  ['isexiled_212',['isExiled',['../class_monsters_1_1_monster.html#a227af31f289abc9dc39d29934a3eba87',1,'Monsters::Monster']]],
+  ['isidle_213',['isIdle',['../class_monsters_1_1_monster.html#a5300b6fd365fb88d91cb1e09fbd9a771',1,'Monsters::Monster']]],
+  ['isjoined_214',['isJoined',['../class_project___network_1_1_host_join_switcher.html#a6bf63badb364f1f099ad079a583edc82',1,'Project_Network::HostJoinSwitcher']]],
+  ['ismonster_215',['isMonster',['../class_card_info_1_1_new_card.html#a360b09c2ccc6dd5c09728933c67e545e',1,'CardInfo::NewCard']]],
+  ['ismonsteron_216',['isMonsterOn',['../class_terrain_scanning_1_1_hex_tile.html#a0bc6cb4da101a94eac4133f4d17b784d',1,'TerrainScanning::HexTile']]],
+  ['isobstacle_217',['isObstacle',['../class_terrain_scanning_1_1_hex_tile.html#a7a9612f440f2cd1c433a682ab8e3eb6e',1,'TerrainScanning::HexTile']]],
+  ['isserverfirst_218',['isServerFirst',['../class_game_logic_1_1_multiplayer_game_manager.html#aad25a9ec19bfd3c59c0d5d31aaa756fb',1,'GameLogic::MultiplayerGameManager']]]
+];

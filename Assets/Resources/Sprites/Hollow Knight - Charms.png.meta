@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 3a971d4ec50024ac79dd99d6e9e7bcff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8174024962753070661
+    second: Hollow Knight - Charms_0
+  - first:
+      213: 8142033931405506149
+    second: Hollow Knight - Charms_1
+  - first:
+      213: -1729000435842406117
+    second: Hollow Knight - Charms_2
+  - first:
+      213: -3918210869148376862
+    second: Hollow Knight - Charms_3
+  - first:
+      213: 5331633526524377417
+    second: Hollow Knight - Charms_4
+  - first:
+      213: 1361099314962740246
+    second: Hollow Knight - Charms_5
+  - first:
+      213: -7624296964882706593
+    second: Hollow Knight - Charms_6
+  - first:
+      213: -6726224958711210946
+    second: Hollow Knight - Charms_7
+  - first:
+      213: 577951932023136692
+    second: Hollow Knight - Charms_8
+  - first:
+      213: 6404057797288192250
+    second: Hollow Knight - Charms_9
+  - first:
+      213: 6173783178073017783
+    second: Hollow Knight - Charms_10
+  - first:
+      213: -4544733922044640671
+    second: Hollow Knight - Charms_11
+  - first:
+      213: -327001354881813240
+    second: Hollow Knight - Charms_12
+  - first:
+      213: -7587826583651098799
+    second: Hollow Knight - Charms_13
+  - first:
+      213: 5846763200033532171
+    second: Hollow Knight - Charms_14
+  - first:
+      213: -821707837544068792
+    second: Hollow Knight - Charms_15
+  - first:
+      213: 68432582972861814
+    second: Hollow Knight - Charms_16
+  - first:
+      213: 1894846888588072465
+    second: Hollow Knight - Charms_17
+  - first:
+      213: -8889925860924160331
+    second: Hollow Knight - Charms_18
+  - first:
+      213: -260230394145691101
+    second: Hollow Knight - Charms_19
+  - first:
+      213: -8447757026920691208
+    second: Hollow Knight - Charms_20
+  - first:
+      213: -7215210997868182893
+    second: Hollow Knight - Charms_21
+  - first:
+      213: 86928816045397525
+    second: Hollow Knight - Charms_22
+  - first:
+      213: -3667160986264216185
+    second: Hollow Knight - Charms_23
+  - first:
+      213: 1887239026757233084
+    second: Hollow Knight - Charms_24
+  - first:
+      213: -1870616750103528586
+    second: Hollow Knight - Charms_25
+  - first:
+      213: -630378258841380242
+    second: Hollow Knight - Charms_26
+  - first:
+      213: -6559651951967550276
+    second: Hollow Knight - Charms_27
+  - first:
+      213: -1734715928388151559
+    second: Hollow Knight - Charms_28
+  - first:
+      213: -1838906636157035718
+    second: Hollow Knight - Charms_29
+  - first:
+      213: 6257810672622702301
+    second: Hollow Knight - Charms_30
+  - first:
+      213: -8217542175398555126
+    second: Hollow Knight - Charms_31
+  - first:
+      213: -1754035770943827368
+    second: Hollow Knight - Charms_32
+  - first:
+      213: 9085952429600421581
+    second: Hollow Knight - Charms_33
+  - first:
+      213: -6261075249426519159
+    second: Hollow Knight - Charms_34
+  - first:
+      213: 5316549059598802516
+    second: Hollow Knight - Charms_35
+  - first:
+      213: 1303783583765146929
+    second: Hollow Knight - Charms_36
+  - first:
+      213: 6313916455978232018
+    second: Hollow Knight - Charms_37
+  - first:
+      213: -6581487330092354926
+    second: Hollow Knight - Charms_38
+  - first:
+      213: 1716930626862035385
+    second: Hollow Knight - Charms_39
+  - first:
+      213: 2571230878565768245
+    second: Hollow Knight - Charms_40
+  - first:
+      213: -331014211044377951
+    second: Hollow Knight - Charms_41
+  - first:
+      213: -6968191009775195231
+    second: Hollow Knight - Charms_42
+  - first:
+      213: -3741567281466477349
+    second: Hollow Knight - Charms_43
+  - first:
+      213: 6593934390844526348
+    second: Hollow Knight - Charms_44
+  - first:
+      213: -5824536718330140406
+    second: Hollow Knight - Charms_45
+  - first:
+      213: 6422313175325529125
+    second: Hollow Knight - Charms_46
+  - first:
+      213: 82421166824909615
+    second: Hollow Knight - Charms_47
+  - first:
+      213: -7195843274561539246
+    second: Hollow Knight - Charms_48
+  - first:
+      213: -8529393461583364090
+    second: Hollow Knight - Charms_49
+  - first:
+      213: 492318072332256345
+    second: Hollow Knight - Charms_50
+  - first:
+      213: -7033985623126966346
+    second: Hollow Knight - Charms_51
+  - first:
+      213: 5653743834417034571
+    second: Hollow Knight - Charms_52
+  - first:
+      213: -4003412989468841174
+    second: Hollow Knight - Charms_53
+  - first:
+      213: 5199419514228080449
+    second: Hollow Knight - Charms_54
+  - first:
+      213: 7669221691680844163
+    second: Hollow Knight - Charms_55
+  - first:
+      213: 2666867102595293757
+    second: Hollow Knight - Charms_56
+  - first:
+      213: 6892760926439106874
+    second: Hollow Knight - Charms_57
+  - first:
+      213: -5942976256838659452
+    second: Hollow Knight - Charms_58
+  - first:
+      213: -3540033265017394146
+    second: Hollow Knight - Charms_59
+  - first:
+      213: 2433322933498647808
+    second: Hollow Knight - Charms_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 295
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98891cb4de67f4bd88b5cd9da06f7b4a
+      internalID: -8174024962753070661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1112
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede6db5243cf4ecc9275af514753e04
+      internalID: 8142033931405506149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1115
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe11523a97104b04bc96612c7f9760b
+      internalID: -1729000435842406117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1104
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46febc883bd2456a836defe48623221
+      internalID: -3918210869148376862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1116
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899e22c790c04e2eb1adcfbc4ecb344
+      internalID: 5331633526524377417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1114
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad73db1bb9fc4877ae8584a88d2e36c
+      internalID: 1361099314962740246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1102
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee7b46d9c144bcf83f900f4df60648
+      internalID: -7624296964882706593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1115
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c0c3cb24d44661b222e3e169459a7
+      internalID: -6726224958711210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1110
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9986d6e46811f4d4e9a210e2bf06620d
+      internalID: 577951932023136692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 959
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127797598365b4048b5ae11df0921ad8
+      internalID: 6404057797288192250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 960
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d58bde204e824850950727be9ed4308
+      internalID: 6173783178073017783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 960
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8993f16f95490f8f5b51ee39704ab
+      internalID: -4544733922044640671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 961
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da56f4ae69394d0dbb81578f9b84e7d
+      internalID: -327001354881813240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 956
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f92d51a975543cd9e2d3f078b8a8fe
+      internalID: -7587826583651098799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 960
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fe894f59c949d18670cd381681feb
+      internalID: 5846763200033532171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 953
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231a42abaa9949a7a5c96baebbb7db3
+      internalID: -821707837544068792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 958
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a1f919ef0a44ce951e228795a5fff
+      internalID: 68432582972861814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_17
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 960
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba221b75921479e8c5d15d11a08ba0
+      internalID: 1894846888588072465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_18
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 958
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ae4e5307a9b49c882d83bef76bf677
+      internalID: -8889925860924160331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 815
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca98f93d52c4b3495bbc84a1308750
+      internalID: -260230394145691101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 823
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac84386d398f41109a0d07586f700c0
+      internalID: -8447757026920691208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 819
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1118989204a44cb8efa9d402923b45
+      internalID: -7215210997868182893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 819
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9080af6349496cb41af0b5a9eeff6
+      internalID: 86928816045397525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 818
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b4d386681e431780bf9f81b74627c
+      internalID: -3667160986264216185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 812
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e18d5fa2eb4c2a8e6dfb9216f7bd3
+      internalID: 1887239026757233084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_25
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 800
+        width: 141
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1932dfa096e874ea598097d384cc682f
+      internalID: -1870616750103528586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 810
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2064ef42ff4553995c08566992d06
+      internalID: -630378258841380242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 811
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa65e6005584b01bc0f40f4cd5ca37
+      internalID: -6559651951967550276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_28
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 827
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53904b18f08e41759cc644ee6c7c1de
+      internalID: -1734715928388151559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f69858d702e49598ddd35cf995355e
+      internalID: -1838906636157035718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 670
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f0093eb030447d599f4d96ad19d54d
+      internalID: 6257810672622702301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 671
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45fc65c23f7a464ebb94b47fbec57ec
+      internalID: -8217542175398555126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 670
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80367db8a8f124b58abca247709f7379
+      internalID: -1754035770943827368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 670
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73db75bba8d4750950c02d07ad9788
+      internalID: 9085952429600421581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 664
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a428603dcf6e64f82a2a443b2cacec80
+      internalID: -6261075249426519159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_35
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 654
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a12d00a0a48f43a899faf3d1d44af03
+      internalID: 5316549059598802516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 646
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee926c915fdf4b76bf3e72a1d84e053
+      internalID: 1303783583765146929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_37
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 646
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae420e802270b4d81bd635b235229633
+      internalID: 6313916455978232018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_38
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 667
+        width: 127
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9596e942552114a6382fc71ddaf2b92a
+      internalID: -6581487330092354926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 535
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1013f68ef04b02a3f9a027b393305
+      internalID: 1716930626862035385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 529
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f691e61a14644d286dd432fde35d73
+      internalID: 2571230878565768245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 374
+        width: 156
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8da376000da4571b816a1a60cb7e84
+      internalID: -331014211044377951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 528
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbdad3aaeb044168c532f32557b8a7
+      internalID: -6968191009775195231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 530
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38f479b7d0a463dae750bef73036ec
+      internalID: -3741567281466477349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_44
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 528
+        width: 126
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f57c5b48474587b20759f87c38534
+      internalID: 6593934390844526348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_45
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 525
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1f6e64a05c43a8b8e04b45a53fa80
+      internalID: -5824536718330140406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_46
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 518
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182fd6b4f49e4dadabb4cef073078a2
+      internalID: 6422313175325529125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_47
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 518
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa144c0707cf412487e3c6ee226ec82
+      internalID: 82421166824909615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_48
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 520
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da62578bedc344bb8a8b1815e11426dd
+      internalID: -7195843274561539246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 378
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd0ac596024413ab4532b808f42d94
+      internalID: -8529393461583364090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 384
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76441a162041f41159d0310395164bf9
+      internalID: 492318072332256345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_51
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 457
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46356e128ed38493c87a5bbaec729860
+      internalID: -7033985623126966346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_52
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 448
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a92a124b73644b192ed78e5cec3671
+      internalID: 5653743834417034571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_53
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 451
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5139e1add1420412aa86db19deb0bb17
+      internalID: -4003412989468841174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60474d5b2464913ac1002a79c37d02
+      internalID: 5199419514228080449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_55
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 422
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22795dc8bdf4975a3a6b6592c1f1c7
+      internalID: 7669221691680844163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 232
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26e95577d43415e934de9862f0178f
+      internalID: 2666867102595293757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 41
+        width: 216
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3045d2908934fe282097a95ed23acb
+      internalID: 6892760926439106874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 211
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec8cecd97d9450c8c3ce8b0ca71e2f
+      internalID: -5942976256838659452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 214
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeef941ce35347b1a8ebd8d40638f9b
+      internalID: -3540033265017394146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hollow Knight - Charms_60
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 212
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a1caec60f64886ba2945b38af2766
+      internalID: 2433322933498647808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

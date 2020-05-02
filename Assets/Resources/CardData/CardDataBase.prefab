@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8908283747614448396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8908283747614448394}
+  - component: {fileID: 3129618712222284045}
+  m_Layer: 0
+  m_Name: CardDataBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8908283747614448394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8908283747614448396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3129618712222284045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8908283747614448396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c853898d64344b84da158216b05dd6d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cards:
+  - id: 0
+    isMonster: 1
+    CardName: Brute
+    Attack: 4
+    HP: 25
+    Speed: 4
+    SpecialEffect: Defense
+    CardPrefab: {fileID: 7920237368423455703, guid: 8b9be8bbbe25a4321bbdacc6d9113e25,
+      type: 3}
+  - id: 1
+    isMonster: 1
+    CardName: Jolleen
+    Attack: 5
+    HP: 15
+    Speed: 4
+    SpecialEffect: AOE
+    CardPrefab: {fileID: 5468069265390775382, guid: 797458136263f4c0399f322212973bc4,
+      type: 3}
+  - id: 2
+    isMonster: 1
+    CardName: Survivor
+    Attack: 3
+    HP: 20
+    Speed: 4
+    SpecialEffect: Quick Shoot
+    CardPrefab: {fileID: 2397522791942515241, guid: 1d6894ff7a1323a4682d5fb4e1be4a9a,
+      type: 3}
+  - id: 3
+    isMonster: 1
+    CardName: Pelegrini
+    Attack: 5
+    HP: 15
+    Speed: 4
+    SpecialEffect: AOE
+    CardPrefab: {fileID: 1944178418672702433, guid: 6231f4bb90ef34e2891c470e01ecec56,
+      type: 3}
+  - id: 4
+    isMonster: 1
+    CardName: Maria
+    Attack: 4
+    HP: 25
+    Speed: 4
+    SpecialEffect: Defense
+    CardPrefab: {fileID: 7931606826205471912, guid: df2ddce2fbeb6ff499fb804f86534f04,
+      type: 3}
+  - id: 5
+    isMonster: 1
+    CardName: Erica
+    Attack: 3
+    HP: 20
+    Speed: 4
+    SpecialEffect: Quick Shoot
+    CardPrefab: {fileID: 3929069998394056163, guid: ba8dc7357b9c4984c83be79a4aa87b5c,
+      type: 3}
+  - id: 6
+    isMonster: 0
+    CardName: Fire
+    Attack: 0
+    HP: 0
+    Speed: 0
+    SpecialEffect: NULL
+    CardPrefab: {fileID: 3458285963940856581, guid: 297447098dd6246218806d9208633e92,
+      type: 3}
+  - id: 7
+    isMonster: 0
+    CardName: Tornado
+    Attack: 0
+    HP: 0
+    Speed: 0
+    SpecialEffect: NULL
+    CardPrefab: {fileID: 1628061088625987456, guid: e905c1aecfdc645ce910d6623692c89c,
+      type: 3}
+  - id: 8
+    isMonster: 0
+    CardName: Mist
+    Attack: 0
+    HP: 0
+    Speed: 0
+    SpecialEffect: NULL
+    CardPrefab: {fileID: 5001719165695467980, guid: bde42e971da7d4b7ea59ac39d01653fa,
+      type: 3}
+  - id: 9
+    isMonster: 0
+    CardName: Portal
+    Attack: 0
+    HP: 0
+    Speed: 0
+    SpecialEffect: NULL
+    CardPrefab: {fileID: 7881888983010210501, guid: 483d060ecafa643359cf34bec5ae812e,
+      type: 3}
